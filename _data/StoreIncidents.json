@@ -92,7 +92,7 @@
 	},
 	{
 		"abr": "eclipse",
-		"price": 450,
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
@@ -116,11 +116,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 600,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "tradercaravan",
 		"price": 275,
 		"karmatype": "Good"
@@ -137,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -222,37 +217,37 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -262,7 +257,7 @@
 	},
 	{
 		"abr": "predators",
-		"price": 2500,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -302,7 +297,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 400,
 		"karmatype": "Neutral"
 	},
 	{
@@ -357,7 +352,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -382,7 +377,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -397,6 +392,11 @@
 	},
 	{
 		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
