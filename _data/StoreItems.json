@@ -2206,145 +2206,145 @@
       "abr": "異種族用ミシン台",
       "category": "Production",
       "defname": "HTBench_HAR",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "シールドベルト(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "Apparel_ShieldBelt_HAR_SK",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "スモークポップベルト(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "Apparel_SmokepopBelt_HAR_SK",
-      "price": 277
+      "price": -10
     },
     {
       "abr": "下着a(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "HAR_SK_AO_a",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "付け角(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "HAR_SK_AH_a",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "カチューシャ(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "HAR_SK_AH_b",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "マフラー(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "HAR_SK_AH_c",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "ミリタリーストール(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "HAR_SK_AH_d",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "カシミアストール(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "HAR_SK_AH_e",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "モッズコート(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "HAR_SK_AS_a",
-      "price": 1050
+      "price": -10
     },
     {
       "abr": "作業用コート(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "HAR_SK_AS_b",
-      "price": 1050
+      "price": -10
     },
     {
       "abr": "ダウンコート(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "HAR_SK_AS_c",
-      "price": 1050
+      "price": -10
     },
     {
       "abr": "村人服(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "HAR_SK_AT_a",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "作業服(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "HAR_SK_AT_b",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "私服(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "HAR_SK_AT_c",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "町娘服(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "HAR_SK_AT_d",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "給仕服(シルキーラ)",
       "category": "シルキーラの衣服",
       "defname": "HAR_SK_AT_e",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "ネコベント",
       "category": "Meals",
       "defname": "HAR_SK_Meal_a",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "シル缶",
       "category": "Meals",
       "defname": "HAR_SK_Meal_f",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "シルキーランチ",
       "category": "Meals",
       "defname": "HAR_SK_Meal_b",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "シルキーラーメン",
       "category": "Meals",
       "defname": "HAR_SK_Meal_e",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "ビーストエナジー",
       "category": "Drugs",
       "defname": "HAR_SK_Meal_c",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "ケモミミート",
       "category": "Meat",
       "defname": "HAR_SK_Meal_d",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "メディカルキャット",
       "category": "Medicine",
       "defname": "HAR_SK_Medicine_a",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "シルキーラ",
@@ -2356,79 +2356,79 @@
       "abr": "亜人工業食品店",
       "category": "Furniture",
       "defname": "BMOT_Building_MailOrderTerminal_Food",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "亜人工業資材店",
       "category": "Furniture",
       "defname": "BMOT_Building_MailOrderTerminal_Material",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "亜人工業家具店",
       "category": "Furniture",
       "defname": "BMOT_Building_MailOrderTerminal_Furniture",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "亜人工業家畜店",
       "category": "Furniture",
       "defname": "BMOT_Building_MailOrderTerminal_Animal",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "亜人工業奴隷店",
       "category": "Furniture",
       "defname": "BMOT_Building_MailOrderTerminal_Slave",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "ガラステーブル(2x2)",
       "category": "Furniture",
       "defname": "HAR_SK_Table2x2c",
-      "price": 242
+      "price": -10
     },
     {
       "abr": "ガラステーブル(3x3)",
       "category": "Furniture",
       "defname": "HAR_SK_Table3x3c",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "パネルランプ",
       "category": "Furniture",
       "defname": "HAR_SK_Lamp",
-      "price": 162
+      "price": -10
     },
     {
       "abr": "観賞用トラック",
       "category": "Art",
       "defname": "HAR_SK_Art_a",
-      "price": 1917
+      "price": -10
     },
     {
       "abr": "豊穣の大鎌",
       "category": "Ranged weapons",
       "defname": "HAR_SK_Weapon_a",
-      "price": 633
+      "price": -10
     },
     {
       "abr": "勤勉の箒",
       "category": "Ranged weapons",
       "defname": "HAR_SK_Weapon_b",
-      "price": 633
+      "price": -10
     },
     {
       "abr": "ブレイズガン",
       "category": "Ranged weapons",
       "defname": "Gun_AssaultRifle_SK",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "ラーヴァランチャー",
       "category": "Ranged weapons",
       "defname": "Gun_IncendiaryLauncher_SK",
-      "price": 1308
+      "price": -10
     },
     {
       "abr": "loadingbench",
@@ -2734,13 +2734,13 @@
       "abr": "enclavepowerarmor",
       "category": "Enclave apparel",
       "defname": "DRKApparelEncPA",
-      "price": 7667
+      "price": 7500
     },
     {
       "abr": "enclaveteslaarmor",
       "category": "Enclave apparel",
       "defname": "DRKApparelEncTesla",
-      "price": 7842
+      "price": 7500
     },
     {
       "abr": "advancedpowerarmor",
@@ -2752,13 +2752,13 @@
       "abr": "advancedpowerarmormk2",
       "category": "Enclave apparel",
       "defname": "DRKApparelAPAMkII",
-      "price": 7567
+      "price": 7500
     },
     {
       "abr": "x01mk6powerarmor",
       "category": "Enclave apparel",
       "defname": "DRKApparelXT60a",
-      "price": 10083
+      "price": 8000
     },
     {
       "abr": "t-51bhelmet",
@@ -3112,7 +3112,7 @@
       "abr": "fatman",
       "category": "Ranged weapons",
       "defname": "DRKGun_Fatman",
-      "price": 8000
+      "price": 7500
     },
     {
       "abr": "holyhandgrenade",
@@ -3238,7 +3238,7 @@
       "abr": "mecgaussminigun",
       "category": "Ranged weapons",
       "defname": "DRKGun_GaussMinigun",
-      "price": 14000
+      "price": 8000
     },
     {
       "abr": "advancedturboplasmarifle",
@@ -3250,7 +3250,7 @@
       "abr": "plasmamachinegun",
       "category": "Ranged weapons",
       "defname": "DRKGun_PlasmaMG",
-      "price": 9567
+      "price": 7500
     },
     {
       "abr": "m72a2gaussrifle",
@@ -4462,31 +4462,31 @@
       "abr": "亜工製機械生命体リーパーmeat",
       "category": "Meat",
       "defname": "Meat_HAR_SK_Mechanoid_race_a",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "亜工製機械生命体プレデターmeat",
       "category": "Meat",
       "defname": "Meat_HAR_SK_Mechanoid_race_b",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "亜工製機械生命体シャドーmeat",
       "category": "Meat",
       "defname": "Meat_HAR_SK_Mechanoid_race_c",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "亜工製機械生命体ソルジャーmeat",
       "category": "Meat",
       "defname": "Meat_HAR_SK_Mechanoid_race_e",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "シルキーラmeat",
       "category": "Meat",
       "defname": "Meat_HAR_Silkiera",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "specialagentmeat",
