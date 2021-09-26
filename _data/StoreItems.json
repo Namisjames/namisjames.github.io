@@ -4691,7 +4691,811 @@
       "category": "Furniture",
       "defname": "BedrollDoubleGuest",
       "price": 290
+    },
+    {
+      "abr": "aa-12",
+      "category": "Gun Nut",
+      "defname": "GN_AATwelve",
+      "price": 492
+    },
+    {
+      "abr": "aimanager",
+      "category": "Production",
+      "defname": "FM_AIManager",
+      "price": 7833
+    },
+    {
+      "abr": "ak-103",
+      "category": "Gun Nut",
+      "defname": "GN_AKOneOThree",
+      "price": 633
+    },
+    {
+      "abr": "ak-105",
+      "category": "Gun Nut",
+      "defname": "GN_AKOneOFive",
+      "price": 633
+    },
+    {
+      "abr": "asval",
+      "category": "Gun Nut",
+      "defname": "GN_ASVAL",
+      "price": 642
+    },
+    {
+      "abr": "ash-12",
+      "category": "Gun Nut",
+      "defname": "GN_AShTwelve",
+      "price": 650
+    },
+    {
+      "abr": "at-4",
+      "category": "Ranged weapons",
+      "defname": "GN_ATFour",
+      "price": 60
+    },
+    {
+      "abr": "auroracore",
+      "category": "Misc",
+      "defname": "EccentricAuroraCore",
+      "price": 8467
+    },
+    {
+      "abr": "autoclave",
+      "category": "Oil",
+      "defname": "Autoclave",
+      "price": 1108
+    },
+    {
+      "abr": "basicmanagerdesk",
+      "category": "Production",
+      "defname": "FM_BasicManagerStation",
+      "price": 262
+    },
+    {
+      "abr": "beartail",
+      "category": "Bionic",
+      "defname": "EccentricTailBear",
+      "price": 442
+    },
+    {
+      "abr": "blackbearear",
+      "category": "Bionic",
+      "defname": "EccentricEarBlackBear",
+      "price": 525
+    },
+    {
+      "abr": "brownbearear",
+      "category": "Bionic",
+      "defname": "EccentricEarBrownBear",
+      "price": 525
+    },
+    {
+      "abr": "bullhorn",
+      "category": "Bionic",
+      "defname": "EccentricHornBull",
+      "price": 517
+    },
+    {
+      "abr": "bulltail",
+      "category": "Bionic",
+      "defname": "EccentricTailBull",
+      "price": 442
+    },
+    {
+      "abr": "bullpuppkp",
+      "category": "Gun Nut",
+      "defname": "GN_BullpupPKP",
+      "price": 858
+    },
+    {
+      "abr": "catear",
+      "category": "Bionic",
+      "defname": "EccentricEarCat",
+      "price": 525
+    },
+    {
+      "abr": "cattail",
+      "category": "Bionic",
+      "defname": "EccentricTailCat",
+      "price": 442
+    },
+    {
+      "abr": "chemfuelpowerplant",
+      "category": "Oil",
+      "defname": "FuelPowerplant",
+      "price": 1558
+    },
+    {
+      "abr": "chemfuelpump",
+      "category": "Oil",
+      "defname": "ChemfuelHopper",
+      "price": 49
+    },
+    {
+      "abr": "chemfuelsiphon",
+      "category": "Oil",
+      "defname": "ChemfuelSiphon",
+      "price": 49
+    },
+    {
+      "abr": "commandoarmor",
+      "category": "Apparel",
+      "defname": "SF_CommandoArmor",
+      "price": 4333
+    },
+    {
+      "abr": "commandoarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_CommandoArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "cqcm4a1",
+      "category": "Gun Nut",
+      "defname": "GN_MFourAOne",
+      "price": 675
+    },
+    {
+      "abr": "customsaiga12k",
+      "category": "Gun Nut",
+      "defname": "GN_SaigaTwelveK",
+      "price": 492
+    },
+    {
+      "abr": "customsks",
+      "category": "Gun Nut",
+      "defname": "GN_SKS",
+      "price": 492
+    },
+    {
+      "abr": "defenderpowerarmor",
+      "category": "Apparel",
+      "defname": "SF_DefenderPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "defenderpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_DefenderPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "diplomatpowerarmor",
+      "category": "Apparel",
+      "defname": "SF_DiplomatPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "diplomatpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_DiplomatPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "engineerpowerarmor",
+      "category": "Apparel",
+      "defname": "SF_EngineerPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "engineerpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_EngineerPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "explorerpowerarmor",
+      "category": "Apparel",
+      "defname": "SF_ExplorerPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "explorerpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_ExplorerPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "foxear",
+      "category": "Bionic",
+      "defname": "EccentricEarFox",
+      "price": 525
+    },
+    {
+      "abr": "foxtail",
+      "category": "Bionic",
+      "defname": "EccentricTailFox",
+      "price": 442
+    },
+    {
+      "abr": "fsxrefiner",
+      "category": "Oil",
+      "defname": "CombatExtendedFsxRefiner",
+      "price": 758
+    },
+    {
+      "abr": "g36",
+      "category": "Gun Nut",
+      "defname": "GN_GThirtySix",
+      "price": 675
+    },
+    {
+      "abr": "g-98",
+      "category": "Gun Nut",
+      "defname": "GN_GlockFLUX",
+      "price": 1358
+    },
+    {
+      "abr": "galilace",
+      "category": "Gun Nut",
+      "defname": "GN_GalilACE",
+      "price": 642
+    },
+    {
+      "abr": "glock17",
+      "category": "Gun Nut",
+      "defname": "GN_GlockSeventeen",
+      "price": 350
+    },
+    {
+      "abr": "gm6",
+      "category": "Gun Nut",
+      "defname": "GN_GMSix",
+      "price": 925
+    },
+    {
+      "abr": "greathornedowltuft",
+      "category": "Bionic",
+      "defname": "EccentricHornGreatHornedOwl",
+      "price": 517
+    },
+    {
+      "abr": "grenadierpowerarmor",
+      "category": "Apparel",
+      "defname": "SF_GrenadierPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "grenadierpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_GrenadierPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "greyhawk55",
+      "category": "Gun Nut",
+      "defname": "GN_GreyHawk",
+      "price": 433
+    },
+    {
+      "abr": "hazardoperationsarmor",
+      "category": "Apparel",
+      "defname": "SF_HazardOperationsArmor",
+      "price": 4333
+    },
+    {
+      "abr": "hazardoperationshelmet",
+      "category": "Headgear",
+      "defname": "SF_HazardOperationsArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "high-densityhex-cell",
+      "category": "Manufactured",
+      "defname": "Eccentric_HexCell",
+      "price": 417
+    },
+    {
+      "abr": "horseear",
+      "category": "Bionic",
+      "defname": "EccentricEarHorse",
+      "price": 525
+    },
+    {
+      "abr": "horsetail",
+      "category": "Bionic",
+      "defname": "EccentricTailHorse",
+      "price": 442
+    },
+    {
+      "abr": "hyperweaverefiner",
+      "category": "Oil",
+      "defname": "HyperweaveRefiner",
+      "price": 2075
+    },
+    {
+      "abr": "icepick",
+      "category": "Melee weapons",
+      "defname": "GN_RedRebel",
+      "price": 333
+    },
+    {
+      "abr": "krissvectorgen.1",
+      "category": "Gun Nut",
+      "defname": "GN_KVector_1G",
+      "price": 583
+    },
+    {
+      "abr": "krissvectorgen.2",
+      "category": "Gun Nut",
+      "defname": "GN_KVector_2G",
+      "price": 633
+    },
+    {
+      "abr": "krissvectorgen.3",
+      "category": "Gun Nut",
+      "defname": "GN_KVector_3G",
+      "price": 1208
+    },
+    {
+      "abr": "ks-23",
+      "category": "Gun Nut",
+      "defname": "GN_KSTwentyThree",
+      "price": 244
+    },
+    {
+      "abr": "ksg",
+      "category": "Gun Nut",
+      "defname": "GN_KSG_S",
+      "price": 408
+    },
+    {
+      "abr": "ksg-25",
+      "category": "Gun Nut",
+      "defname": "GN_KSG_L",
+      "price": 450
+    },
+    {
+      "abr": "labradordogear",
+      "category": "Bionic",
+      "defname": "EccentricEarLabrador",
+      "price": 525
+    },
+    {
+      "abr": "labradordogtail",
+      "category": "Bionic",
+      "defname": "EccentricTailLabrador",
+      "price": 442
+    },
+    {
+      "abr": "m16a4",
+      "category": "Gun Nut",
+      "defname": "GN_M16AFour",
+      "price": 725
+    },
+    {
+      "abr": "m1a",
+      "category": "Gun Nut",
+      "defname": "GN_MOneA",
+      "price": 650
+    },
+    {
+      "abr": "m202a1",
+      "category": "Gun Nut",
+      "defname": "GN_M202F",
+      "price": 750
+    },
+    {
+      "abr": "m240b",
+      "category": "Gun Nut",
+      "defname": "GN_M240B",
+      "price": 833
+    },
+    {
+      "abr": "m2hb",
+      "category": "Gun Nut",
+      "defname": "GN_M2HB",
+      "price": 1342
+    },
+    {
+      "abr": "m320",
+      "category": "Gun Nut",
+      "defname": "GN_HKGL",
+      "price": 392
+    },
+    {
+      "abr": "m3e1",
+      "category": "Gun Nut",
+      "defname": "GN_MThreeEOne",
+      "price": 758
+    },
+    {
+      "abr": "m4carbine",
+      "category": "Gun Nut",
+      "defname": "GN_M4US",
+      "price": 675
+    },
+    {
+      "abr": "mainecooncattail",
+      "category": "Bionic",
+      "defname": "EccentricTailMaineCoon",
+      "price": 442
+    },
+    {
+      "abr": "mainecoonear",
+      "category": "Bionic",
+      "defname": "EccentricEarMaineCoon",
+      "price": 525
+    },
+    {
+      "abr": "managerdesk",
+      "category": "Production",
+      "defname": "FM_ManagerStation",
+      "price": 508
+    },
+    {
+      "abr": "mg3",
+      "category": "Gun Nut",
+      "defname": "GN_MGThree",
+      "price": 750
+    },
+    {
+      "abr": "mini-14",
+      "category": "Gun Nut",
+      "defname": "GN_Ruger_14Mini",
+      "price": 458
+    },
+    {
+      "abr": "mini-14(charged)",
+      "category": "Gun Nut",
+      "defname": "GN_Ruger_ChargeMini",
+      "price": 1075
+    },
+    {
+      "abr": "mini-30",
+      "category": "Gun Nut",
+      "defname": "GN_Ruger_30Mini",
+      "price": 483
+    },
+    {
+      "abr": "mini-30(tactical)",
+      "category": "Gun Nut",
+      "defname": "GN_Ruger_TacticalMini",
+      "price": 500
+    },
+    {
+      "abr": "mouseear",
+      "category": "Bionic",
+      "defname": "EccentricEarMouse",
+      "price": 525
+    },
+    {
+      "abr": "mousetail",
+      "category": "Bionic",
+      "defname": "EccentricTailMouse",
+      "price": 442
+    },
+    {
+      "abr": "mp7a1",
+      "category": "Gun Nut",
+      "defname": "GN_MPSevenAOne",
+      "price": 575
+    },
+    {
+      "abr": "nanoassembler",
+      "category": "Production",
+      "defname": "EccentricNanoassembler",
+      "price": 7808
+    },
+    {
+      "abr": "nanofabricator",
+      "category": "Production",
+      "defname": "EccentricNanofabricator",
+      "price": 4992
+    },
+    {
+      "abr": "nanoweave",
+      "category": "Textiles",
+      "defname": "Eccentric_Nanoweave",
+      "price": 15
+    },
+    {
+      "abr": "neopup",
+      "category": "Gun Nut",
+      "defname": "GN_Neopup",
+      "price": 492
+    },
+    {
+      "abr": "neutroaminerefiner",
+      "category": "Oil",
+      "defname": "NeutroamineRefiner",
+      "price": 1583
+    },
+    {
+      "abr": "ng5",
+      "category": "Gun Nut",
+      "defname": "GN_NGFive",
+      "price": 825
+    },
+    {
+      "abr": "onihorn",
+      "category": "Bionic",
+      "defname": "EccentricHornOni",
+      "price": 517
+    },
+    {
+      "abr": "owltail",
+      "category": "Bionic",
+      "defname": "EccentricTailOwl",
+      "price": 442
+    },
+    {
+      "abr": "p90",
+      "category": "Gun Nut",
+      "defname": "GN_PNinety",
+      "price": 508
+    },
+    {
+      "abr": "pipelinevalve",
+      "category": "Oil",
+      "defname": "pipelineValve",
+      "price": 50
+    },
+    {
+      "abr": "poweredassaultarmor",
+      "category": "Apparel",
+      "defname": "SF_PoweredAssaultArmor",
+      "price": 4333
+    },
+    {
+      "abr": "poweredassaultarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_PoweredAssaultArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "prometheumbomb",
+      "category": "Oil",
+      "defname": "NapalmBomb",
+      "price": 52
+    },
+    {
+      "abr": "prometheumrefiner",
+      "category": "Oil",
+      "defname": "NapalmRefiner",
+      "price": 758
+    },
+    {
+      "abr": "r700",
+      "category": "Gun Nut",
+      "defname": "GN_RSevenHundred",
+      "price": 725
+    },
+    {
+      "abr": "rabbitear",
+      "category": "Bionic",
+      "defname": "EccentricEarRabbit",
+      "price": 525
+    },
+    {
+      "abr": "rabbittail",
+      "category": "Bionic",
+      "defname": "EccentricTailRabbit",
+      "price": 442
+    },
+    {
+      "abr": "ramhorn",
+      "category": "Bionic",
+      "defname": "EccentricHornRam",
+      "price": 517
+    },
+    {
+      "abr": "reconpowerarmor",
+      "category": "Apparel",
+      "defname": "SF_ReconPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "reconpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_ReconPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "refineryunloadingbay",
+      "category": "Oil",
+      "defname": "RefineryLoadingBay",
+      "price": 49
+    },
+    {
+      "abr": "resourceconsole",
+      "category": "Oil",
+      "defname": "ResourceConsole",
+      "price": 642
+    },
+    {
+      "abr": "sa-58",
+      "category": "Gun Nut",
+      "defname": "GN_SAFiftyEight",
+      "price": 675
+    },
+    {
+      "abr": "samuraipowerarmor",
+      "category": "Apparel",
+      "defname": "SF_SamuraiPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "samuraipowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_SamuraiPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "scoutpowerarmor",
+      "category": "Apparel",
+      "defname": "SF_ScoutPowerArmor",
+      "price": 4333
+    },
+    {
+      "abr": "scoutpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_ScoutPowerArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "shepherddogear",
+      "category": "Bionic",
+      "defname": "EccentricEarShepherd",
+      "price": 525
+    },
+    {
+      "abr": "shepherddogtail",
+      "category": "Bionic",
+      "defname": "EccentricTailShepherd",
+      "price": 442
+    },
+    {
+      "abr": "shocktrooperarmor",
+      "category": "Apparel",
+      "defname": "SF_ShockTrooperArmor",
+      "price": 4333
+    },
+    {
+      "abr": "shocktrooperarmorhelmet",
+      "category": "Headgear",
+      "defname": "SF_ShockTrooperArmorHelmet",
+      "price": 1750
+    },
+    {
+      "abr": "siamesecatear",
+      "category": "Bionic",
+      "defname": "EccentricEarSiamese",
+      "price": 525
+    },
+    {
+      "abr": "siamesecattail",
+      "category": "Bionic",
+      "defname": "EccentricTailSiamese",
+      "price": 442
+    },
+    {
+      "abr": "sigmcxspear",
+      "category": "Gun Nut",
+      "defname": "GN_SPEARMCX",
+      "price": 650
+    },
+    {
+      "abr": "sigmcxspear(custom)",
+      "category": "Gun Nut",
+      "defname": "GN_SPEARMCX_C",
+      "price": 708
+    },
+    {
+      "abr": "sigmg338",
+      "category": "Gun Nut",
+      "defname": "GN_338MG",
+      "price": 908
+    },
+    {
+      "abr": "sigmg338(custom)",
+      "category": "Gun Nut",
+      "defname": "GN_338MG_C",
+      "price": 975
+    },
+    {
+      "abr": "signgsw-ar",
+      "category": "Gun Nut",
+      "defname": "GN_68MG",
+      "price": 817
+    },
+    {
+      "abr": "signgsw-ar(custom)",
+      "category": "Gun Nut",
+      "defname": "GN_68MG_C",
+      "price": 875
+    },
+    {
+      "abr": "sr-25",
+      "category": "Gun Nut",
+      "defname": "GN_SRTwentyFive",
+      "price": 692
+    },
+    {
+      "abr": "stg44",
+      "category": "Gun Nut",
+      "defname": "GN_StGFortyFour",
+      "price": 583
+    },
+    {
+      "abr": "synthamiderefiner",
+      "category": "Oil",
+      "defname": "SynthamideRefiner",
+      "price": 1167
+    },
+    {
+      "abr": "synthreadrefiner",
+      "category": "Oil",
+      "defname": "SynthreadRefiner",
+      "price": 808
+    },
+    {
+      "abr": "synthylenerefiner",
+      "category": "Oil",
+      "defname": "SynthyleneRefiner",
+      "price": 758
+    },
+    {
+      "abr": "terrierdogear",
+      "category": "Bionic",
+      "defname": "EccentricEarTerrier",
+      "price": 525
+    },
+    {
+      "abr": "terrierdogtail",
+      "category": "Bionic",
+      "defname": "EccentricTailTerrier",
+      "price": 442
+    },
+    {
+      "abr": "thrumbohorn",
+      "category": "Bionic",
+      "defname": "EccentricHornThrumbo",
+      "price": 517
+    },
+    {
+      "abr": "uncuredplasteel",
+      "category": "Raw resources",
+      "defname": "UncuredPlasteel",
+      "price": 3
+    },
+    {
+      "abr": "uncuredsynthamidecomposite",
+      "category": "Synthamide",
+      "defname": "UncuredComposite",
+      "price": 3
+    },
+    {
+      "abr": "unicornhorn",
+      "category": "Bionic",
+      "defname": "EccentricHornUnicorn",
+      "price": 517
+    },
+    {
+      "abr": "uscmm41a",
+      "category": "Gun Nut",
+      "defname": "GN_PulseRifle",
+      "price": 675
+    },
+    {
+      "abr": "uscmm56",
+      "category": "Gun Nut",
+      "defname": "GN_M56SG",
+      "price": 775
+    },
+    {
+      "abr": "wolfear",
+      "category": "Bionic",
+      "defname": "EccentricEarWolf",
+      "price": 525
+    },
+    {
+      "abr": "wolftail",
+      "category": "Bionic",
+      "defname": "EccentricTailWolf",
+      "price": 442
     }
   ],
-  "total": 782
+  "total": 916
 }
