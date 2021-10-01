@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -127,7 +127,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -297,7 +297,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 100,
 		"karmatype": "Neutral"
 	},
 	{
@@ -332,12 +332,12 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
@@ -372,7 +372,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -438,5 +438,3 @@
 	],
 	"total": 87
 }
-
-
