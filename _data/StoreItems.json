@@ -1528,7 +1528,7 @@
       "abr": "cat",
       "category": "Animals",
       "defname": "Cat",
-      "price": 167
+      "price": 500
     },
     {
       "abr": "yorkshireterrier",
@@ -1564,13 +1564,13 @@
       "abr": "chicken",
       "category": "Animals",
       "defname": "Chicken",
-      "price": 83
+      "price": 500
     },
     {
       "abr": "duck",
       "category": "Animals",
       "defname": "Duck",
-      "price": 100
+      "price": 500
     },
     {
       "abr": "turkey",
@@ -1582,7 +1582,7 @@
       "abr": "goose",
       "category": "Animals",
       "defname": "Goose",
-      "price": 150
+      "price": 500
     },
     {
       "abr": "cow",
@@ -1618,7 +1618,7 @@
       "abr": "goat",
       "category": "Animals",
       "defname": "Goat",
-      "price": 333
+      "price": 500
     },
     {
       "abr": "elk",
@@ -1774,7 +1774,7 @@
       "abr": "capybara",
       "category": "Animals",
       "defname": "Capybara",
-      "price": 250
+      "price": 1000
     },
     {
       "abr": "squirrel",
@@ -1792,7 +1792,7 @@
       "abr": "boomrat",
       "category": "Animals",
       "defname": "Boomrat",
-      "price": 167
+      "price": 250
     },
     {
       "abr": "raccoon",
